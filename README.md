@@ -50,7 +50,7 @@ The dataset includes the following fields:
 [https://imgbb.com/](https://imgbb.com/) or [https://postimages.org/](https://postimages.org/)  
 Once uploaded, add the direct image link below:
 
-🖼️ **Image URL:** [Paste your link here]
+🖼️ **Image URL:** [url=https://postimg.cc/9zhVVz5C][img]https://i.postimg.cc/9zhVVz5C/Screenshot-2025-02-06-172641.png[/img][/url]
 
 📎 How to Use the Project?
 --------------------------
