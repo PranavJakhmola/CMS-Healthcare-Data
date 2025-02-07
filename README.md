@@ -44,6 +44,14 @@ The dataset includes the following fields:
 ✅ Plan Type Performance (Grouped Bar Chart)  
 ✅ Rating Breakdown by Category (Stacked Bar Chart)  
 
+🖼️ Tableau Dashboard Screenshot
+--------------------------------
+🔗 Upload your Tableau dashboard image here:  
+[https://imgbb.com/](https://imgbb.com/) or [https://postimages.org/](https://postimages.org/)  
+Once uploaded, add the direct image link below:
+
+🖼️ **Image URL:** [Paste your link here]
+
 📎 How to Use the Project?
 --------------------------
 1. Download the dataset: Cleaned_Quality_PUF_October_2024.csv  
