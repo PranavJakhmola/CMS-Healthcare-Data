@@ -46,11 +46,7 @@ The dataset includes the following fields:
 
 🖼️ Tableau Dashboard Screenshot
 --------------------------------
-🔗 Upload your Tableau dashboard image here:  
-[https://imgbb.com/](https://imgbb.com/) or [https://postimages.org/](https://postimages.org/)  
-Once uploaded, add the direct image link below:
-
-🖼️ **Image URL:** [url=]
+![image alt]()
 
 📎 How to Use the Project?
 --------------------------
