@@ -46,7 +46,7 @@ The dataset includes the following fields:
 
 🖼️ Tableau Dashboard Screenshot
 --------------------------------
-![image alt]()
+![image alt](https://github.com/PranavJakhmola/CMS-Healthcare-Data/blob/dfab94e3190c3ca2dd00db559c03b06f202c15c4/Dashboard%20(2).png)
 
 📎 How to Use the Project?
 --------------------------
